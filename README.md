@@ -7,7 +7,7 @@
 ----
 
 
-Los proyectos en el repositorioa, manejaran diversas herramientas que puede trabajar y ofrecerse en Java-EE. Tales como:
+Los proyectos en el repositorios, manejaran diversas herramientas que puede trabajar y ofrecerse en Java-EE. Tales como:
 + Servlest
 + JSP(Java Server Pages)
 + Maven
