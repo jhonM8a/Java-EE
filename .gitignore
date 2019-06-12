@@ -118,7 +118,7 @@ buildNumber.properties
 
 ### More ###
 .RemoteSystemsTempFiles
-.Servers
+Servers/
 .sonarlint
 
 
